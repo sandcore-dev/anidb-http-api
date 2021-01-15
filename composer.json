@@ -1,0 +1,14 @@
+{
+    "name": "sandcore-dev/anidb-http-api",
+    "description": "A PHP client for the AniDB HTTP API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sandcore Development",
+            "email": "info@sandcore.dev"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
